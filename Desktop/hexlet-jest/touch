@@ -1,0 +1,12 @@
+# node_modules — папка с зависимостями
+node_modules/
+
+# Логи
+npm-debug.log
+yarn-error.log
+
+# Файлы и директории, созданные системой или редактором
+.DS_Store        # macOS
+Thumbs.db        # Windows
+.idea/           # JetBrains IDEs (например, WebStorm)
+.vscode/         # Visual Studio Code
